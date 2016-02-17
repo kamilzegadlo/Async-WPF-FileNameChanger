@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileNameChanger.Service
 {
-    public interface IUpdateInfo
+    public interface IUpdateInfo : ICloneable
     {
         string GetMessage { get; }
 
@@ -17,7 +17,5 @@ namespace FileNameChanger.Service
         DateTime UpdateTime { get; }
 
         void ResetCounter();
-
-        Object Clone();
     }
 }

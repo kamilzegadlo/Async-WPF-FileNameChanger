@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FileNameChanger.Service
 {
-    public class UpdateInfo : IUpdateInfo, ICloneable
+    public class UpdateInfo : IUpdateInfo
     {
         private StringBuilder _message;
         private int _counter;
