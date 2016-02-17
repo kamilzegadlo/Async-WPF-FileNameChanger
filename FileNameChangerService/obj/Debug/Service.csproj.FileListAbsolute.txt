@@ -1,0 +1,5 @@
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\obj\Debug\Service.csprojResolveAssemblyReference.cache
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.pdb

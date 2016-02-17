@@ -1,0 +1,57 @@
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.exe.config
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.exe
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChangerService.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.csprojResolveAssemblyReference.cache
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\MainWindow.baml
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\MainWindow.g.cs
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\App.g.cs
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger_MarkupCompile.cache
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.g.resources
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.Properties.Resources.resources
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.csproj.GenerateResource.Cache
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.exe
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Core.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Windsor.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Core.xml
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Windsor.xml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\FileNameChanger.exe.config
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.exe
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.pdb
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\FileNameChanger.exe
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\FileNameChanger.pdb
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\Castle.Core.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\Castle.Windsor.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\FileNameChangerService.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\FileNameChangerService.pdb
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\Castle.Core.xml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\bin\Debug\Castle.Windsor.xml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.csprojResolveAssemblyReference.cache
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\MainWindow.baml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\MainWindow.g.cs
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\App.g.cs
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger_MarkupCompile.cache
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.g.resources
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.Properties.Resources.resources
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChanger\obj\Debug\FileNameChanger.csproj.GenerateResource.Cache
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.exe.config
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.exe
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.pdb
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.exe
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChanger.pdb
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Core.dll
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Windsor.dll
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChangerService.dll
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\FileNameChangerService.pdb
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Core.xml
+D:\projects\FileNameChanger\FileNameChanger\bin\Debug\Castle.Windsor.xml
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.csprojResolveAssemblyReference.cache
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\MainWindow.baml
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\MainWindow.g.cs
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\App.g.cs
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger_MarkupCompile.cache
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.g.resources
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.Properties.Resources.resources
+D:\projects\FileNameChanger\FileNameChanger\obj\Debug\FileNameChanger.csproj.GenerateResource.Cache

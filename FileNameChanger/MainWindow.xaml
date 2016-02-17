@@ -1,0 +1,34 @@
+﻿<Window x:Class="FileNameChanger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="File Name Changer" Height="730" Width="525">
+    <Grid>
+        <Button x:Name="StartButton" Content="Start" HorizontalAlignment="Left" Margin="95,261,0,0" VerticalAlignment="Top" Width="249" Click="Start_ButtonClick" Height="40"/>
+        <CheckBox x:Name="RestoreFoldersTree" Content="Restore input folders tree?" HorizontalAlignment="Left" Margin="17,93,0,0" VerticalAlignment="Top" IsChecked="true" RenderTransformOrigin="0.452,0.626"/>
+        <TextBox x:Name="InputMask" HorizontalAlignment="Left" Height="23" Margin="185,134,0,0" TextWrapping="Wrap" Text="*" VerticalAlignment="Top" Width="312"/>
+        <Label Content="Mask of the input files:" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.547,-0.017"/>
+        <Label Content="Mask of the output files:" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="OutputMask" HorizontalAlignment="Left" Height="23" Margin="185,162,0,0" TextWrapping="Wrap" Text="RB[NUMBER].txt" VerticalAlignment="Top" Width="312"/>
+        <Label Content="Start number: " HorizontalAlignment="Left" Margin="10,185,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="StartNumber" HorizontalAlignment="Left" Height="23" Margin="185,190,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="312"/>
+        <TextBox x:Name="LogsTextArea" HorizontalAlignment="Left" Margin="10,341,0,0" TextWrapping="Wrap" Text="Logs:" VerticalAlignment="Top" Height="319" Width="487" ScrollViewer.VerticalScrollBarVisibility="Auto"  ScrollViewer.CanContentScroll="True"/>
+        <TextBox x:Name="OutputFolder" HorizontalAlignment="Left" Height="23" Margin="185,64,0,0" TextWrapping="Wrap" Text="G:\RBS\kz_test\" VerticalAlignment="Top" Width="232"/>
+        <Label Content="Output folder:" HorizontalAlignment="Left" Margin="10,62,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="InputFolder" HorizontalAlignment="Left" Height="23" Margin="185,13,0,0" TextWrapping="Wrap" Text="G:\RBS\allimage\" VerticalAlignment="Top" Width="232"/>
+        <CheckBox x:Name="InputRekursive" Content="Rekursive subfolders?" HorizontalAlignment="Left" Margin="17,41,0,0" VerticalAlignment="Top" IsChecked="true"/>
+        <Label Content="Input folder:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="CountingFromTheBeginning" Content="Start counting from the beginning for each folder?" HorizontalAlignment="Left" Margin="185,96,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="BrowseInput" Content="Browse" HorizontalAlignment="Left" Margin="422,14,0,0" VerticalAlignment="Top" Width="75" Click="BrowseInputFolder_ButtonClick"/>
+        <Button x:Name="BrowseOutput" Content="Browse" HorizontalAlignment="Left" Margin="422,62,0,0" VerticalAlignment="Top" Width="75" Click="BrowseOutputFolder_ButtonClick"/>
+        <Label Content="Number of digits:" HorizontalAlignment="Left" Margin="10,211,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="NumberOfDigits" HorizontalAlignment="Left" Height="23" Margin="185,218,0,0" TextWrapping="Wrap" Text="6" VerticalAlignment="Top" Width="312"/>
+        <CheckBox x:Name="OverwriteFiles" Content="Overwrite existing files?" HorizontalAlignment="Left" Margin="17,114,0,0" VerticalAlignment="Top" IsChecked="True"/>
+        <Button x:Name="ClearLogsButton" Content="Clear logs" HorizontalAlignment="Left" Margin="436,286,0,0" VerticalAlignment="Top" Width="61" Click="ClearLogs_Click"/>
+        <ProgressBar x:Name="ExecutionBar" HorizontalAlignment="Left" Height="23" Margin="73,313,0,0" VerticalAlignment="Top" Width="424" Minimum="0"/>
+        <Label Content="Progress:" HorizontalAlignment="Left" Margin="10,313,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="Cancel" Content="Abord" HorizontalAlignment="Left" Margin="15,270,0,0" VerticalAlignment="Top" Width="75" Click="Cancel_Click" Visibility="Hidden"/>
+        <Label x:Name="Version" Content="Version: " HorizontalAlignment="Left" Margin="0,660,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.067,16.1" Width="497"/>
+        <CheckBox x:Name="UpdatePBOnly" Content="Update progress bar only" HorizontalAlignment="Left" Margin="349,265,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>

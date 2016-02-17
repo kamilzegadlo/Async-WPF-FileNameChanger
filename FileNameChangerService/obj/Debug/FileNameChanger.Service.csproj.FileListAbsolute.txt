@@ -1,0 +1,22 @@
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.pdb
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\FileNameChangerService.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\FileNameChangerService.pdb
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\Castle.Core.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\Castle.Windsor.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\Castle.Core.xml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\bin\Debug\Castle.Windsor.xml
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\obj\Debug\FileNameChanger.Service.csprojResolveAssemblyReference.cache
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\obj\Debug\FileNameChangerService.dll
+C:\Users\kzegadl\Documents\Visual Studio 2013\Projects\FileNameChanger - Copy\FileNameChangerService\obj\Debug\FileNameChangerService.pdb
+D:\projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChanger.Service.csprojResolveAssemblyReference.cache
+D:\projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.dll
+D:\projects\FileNameChanger\FileNameChangerService\obj\Debug\FileNameChangerService.pdb
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.dll
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\FileNameChangerService.pdb
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\Castle.Core.dll
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\Castle.Windsor.dll
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\Castle.Core.xml
+D:\projects\FileNameChanger\FileNameChangerService\bin\Debug\Castle.Windsor.xml

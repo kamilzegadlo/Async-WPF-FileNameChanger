@@ -1,0 +1,22 @@
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChanger.ServiceFixture.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChanger.ServiceFixture.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChangerService.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\nunit.framework.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChangerService.pdb
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\nunit.framework.xml
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.csprojResolveAssemblyReference.cache
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.dll
+c:\users\kzegadl\documents\visual studio 2013\Projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.pdb
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChanger.ServiceFixture.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChanger.ServiceFixture.pdb
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChangerService.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\nunit.framework.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\Castle.Windsor.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\Castle.Core.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\FileNameChangerService.pdb
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\nunit.framework.xml
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\Castle.Windsor.xml
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\bin\Debug\Castle.Core.xml
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.csprojResolveAssemblyReference.cache
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.dll
+D:\projects\FileNameChanger\FileNameChanger.ServiceFixture\obj\Debug\FileNameChanger.ServiceFixture.pdb

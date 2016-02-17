@@ -1,0 +1,84 @@
+Logs:
+UI version: 1.0.5891.37843, Service version: 1.1.5891.32161
+
+Start execution time: 2016-02-17 21:03:50.026
+
+Given inputs:
+User who run the process: dq
+Input folder: C:\test\
+Rekursion: True
+Output folder: C:\test\kz_test\
+Restore input folder tree structure: True
+Start counting from the beggining for each folder: False
+Overwrite files: True
+Mask of the input files: *.txt
+Mask of the output files: RB[NUMBER].txt
+Start number: 1
+Number of digits: 6
+
+Number of files to proceed: 26
+
+File: C:\test\test.txt was copied as: C:\test\kz_test\RB000001.txt
+
+File: C:\test\developer-test\README.txt was copied as: C:\test\kz_test\developer-test\RB000002.txt
+
+File: C:\test\kz_test\RB000001.txt was copied as: C:\test\kz_test\kz_test\RB000003.txt
+
+File: C:\test\kz_test\developer-test\RB000002.txt was copied as: C:\test\kz_test\kz_test\developer-test\RB000004.txt
+
+File: C:\test\kz_test\kz_test\RB000003.txt was copied as: C:\test\kz_test\kz_test\kz_test\RB000005.txt
+
+File: C:\test\kz_test\kz_test\developer-test\RB000004.txt was copied as: C:\test\kz_test\kz_test\kz_test\developer-test\RB000006.txt
+
+File: C:\test\kz_test\kz_test\kz_test\RB000005.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\RB000007.txt
+
+File: C:\test\kz_test\kz_test\kz_test\developer-test\RB000006.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000008.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\RB000007.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000009.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000008.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000010.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000009.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000011.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000010.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000012.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000011.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000013.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000012.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000014.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000013.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000015.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000014.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000016.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000015.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000017.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000016.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000018.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000017.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000019.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000018.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000020.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000019.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000021.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000020.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000022.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000021.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000023.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000022.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000024.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000023.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000025.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000024.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000026.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000025.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000027.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000026.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\developer-test\RB000028.txt
+
+File: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000027.txt was copied as: C:\test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\kz_test\RB000029.txt
+
+
+Files copied: 26/26
+
+!!EXCEPTION: 
+
+The specified path, file name, or both are too long. The fully qualified file name must be less than 260 characters, and the directory name must be less than 248 characters.
